@@ -8,4 +8,8 @@
     <string name="aosp_tag_id">AOSP Tag</string>
     <string name="aosp_tag_id_default">Unknown</string>
 
+    <!-- Vendor version -->
+    <string name="vendor_version">Vendor version</string>
+    <string name="vendor_version_default">Unknown</string>
+
 </resources>
