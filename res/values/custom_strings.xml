@@ -5,5 +5,7 @@
     <!-- AOSPMod version -->
     <string name="aospmod_version">AOSPMod version</string>
     <string name="aospmod_version_default">Unknown</string>
+    <string name="aosp_tag_id">AOSP Tag</string>
+    <string name="aosp_tag_id_default">Unknown</string>
 
 </resources>

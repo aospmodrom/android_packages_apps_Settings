@@ -73,6 +73,11 @@
                 android:title="@string/firmware_version"
                 android:summary="@string/summary_placeholder"/>
 
+        <!-- Tag AOSP -->
+        <Preference android:key="aosp_tag_id"
+                android:title="@string/aosp_tag_id"
+                android:summary="@string/aosp_tag_id_default"/>
+
         <!-- Security patch level -->
         <Preference android:key="security_patch"
                 android:title="@string/security_patch"
