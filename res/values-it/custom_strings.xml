@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- AOSPMod version -->
+    <string name="aospmod_version">Versione AOSPMod</string>
+    <string name="aospmod_version_default">Sconosciuta</string>
+
+</resources>
